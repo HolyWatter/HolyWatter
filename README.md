@@ -1,3 +1,3 @@
-### Hi! Welcome my page
+### Hi! Welcome my page 🙌
 
-- My name is seongsu!
+👋 My name is Seongsu Park!
