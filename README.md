@@ -1,1 +1,3 @@
-#안녕하세요
+### Hi! Welcome my page
+
+- My name is seongsu!
