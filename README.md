@@ -2,12 +2,12 @@
 
 
 👋 My name is Seongsu Park! I'm Front-end Dev.
-
+<!-- 
 📍 I am living in Seoul Now!
 
 📝 I studied Public Administration.
 
-
+ -->
 
 
 🖥 Teck Skills
